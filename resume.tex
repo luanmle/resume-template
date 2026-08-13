@@ -18,7 +18,7 @@
 
 \begin{center}
     {\LARGE \textbf{Nome do Profissional}} \\ \vspace{3pt}
-    \faMapMarkerAlt \ Cidade Fict\'icia, CF \ \ • \ \ \faPhone \ \ (00) 00000-0000 \ \ • \ \ \faEnvelope \ \ email@exemplo.com.br \\ \vspace{2pt}
+    \faMapMarker \ Cidade Fict\'icia, CF \ \ • \ \ \faPhone \ \ (00) 00000-0000 \ \ • \ \ \faEnvelope \ \ email@exemplo.com.br \\ \vspace{2pt}
     \faLinkedin\ \ \href {https://linkedin.com/in/usuario-exemplo} {linkedin.com/in/usuario-exemplo} \ \ • \ \ \faGithub \ \ \href{https://github.com/usuario-exemplo}{github.com/usuario-exemplo}
 \end{center}
 
